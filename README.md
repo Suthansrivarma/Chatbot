@@ -27,8 +27,6 @@ The application demonstrates core front-end development concepts such as DOM man
 ---
 
 
----
-
 ## 🌐 Live Deployment
 
 👉 https://thriving-dieffenbachia-29f64a.netlify.app/
